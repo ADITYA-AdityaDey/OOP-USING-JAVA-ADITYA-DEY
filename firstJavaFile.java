@@ -10,7 +10,7 @@ public class firstJavaFile {
         String name = scanner.nextLine();
 
         // Greet the user
-        System.out.println("Hello, " + name + "! Welcome to the Java program.");
+        System.out.println("Hello, " + name + "! Welcome to the Java program");
 
         // Close the scanner
         scanner.close();
